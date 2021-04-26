@@ -1,3 +1,7 @@
+#Exclude Project Files
+.project
+Cargo.lock
+
 #Exclude Build Files
 target
 target/**

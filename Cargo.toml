@@ -1,9 +1,9 @@
 [package]
-name = "fileaccess"
-version = "0.1.0"
-authors = ["usr15"]
+name = "filedriver"
+version = "1.0.0"
+authors = ["Bodo Hugo Barwich <b.barwich@hotmail.com>"]
 edition = "2018"
 
 [lib]
-name = "fileaccess"
+name = "filedriver"
 path = "src/filedriver.rs"
